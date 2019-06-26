@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 First run API:
-https://github.com/gaston03/dataiq-api
+https://github.com/gaston03/abm-api
 
 In the project directory, you can run:
 
